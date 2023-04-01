@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name "0472192001")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/0472192001")(options "")(descr ""))
+  (lib (name "LMR14030QDPRRQ1")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/LMR14030QDPRRQ1")(options "")(descr ""))
+  (lib (name "MAX706RESA+T")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/MAX706RESA+T")(options "")(descr ""))
+  (lib (name "STM32H743ZIT6")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/STM32H743ZIT6")(options "")(descr ""))
+  (lib (name "TMP75CQDRQ1")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/TMP75CQDRQ1")(options "")(descr ""))
+  (lib (name "TPS3828-33DBVR")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/TPS3828-33DBVR")(options "")(descr ""))
+  (lib (name "TS-1101-C-W")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/TS-1101-C-W")(options "")(descr ""))
+  (lib (name "SDT5100LP5-13")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/SDT5100LP5-13")(options "")(descr ""))
+  (lib (name "VLS6045EX-6R8M")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/VLS6045EX-6R8M")(options "")(descr ""))
+  (lib (name "Logo1")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/CubeSat Logo/Logo1.pretty")(options "")(descr ""))
+  (lib (name "Screw")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/Screw Terminal 3.81/Screw.pretty")(options "")(descr ""))
+)

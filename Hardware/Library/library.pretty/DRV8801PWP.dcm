@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8801PWP
+D Motor / Motion / Ignition Controllers & Drivers Full Bridge Motor Drvr
+K
+F https://www.ti.com/lit/gpn/DRV8801
+$ENDCMP
+#
+#End Doc Library

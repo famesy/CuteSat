@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC1G74DCUR
+D SINGLE POSITIVE-EDGE-TRIGGERED D-TYPE FLIP-FLOP WITH CLEAR AND PRESET
+K
+F http://www.ti.com/lit/gpn/sn74lvc1g74
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,7 @@
+../Core/Src/Library/EDAC.c:9:6:hamming7264_encode	72	static
+../Core/Src/Library/EDAC.c:54:9:hamming7264_decode	80	static
+../Core/Src/Library/EDAC.c:110:6:FRAM_Encode_Write	40	static
+../Core/Src/Library/EDAC.c:116:6:FRAM_Decode_Read	40	static
+../Core/Src/Library/EDAC.c:125:6:FRAM_Encode_Write_Block	64	static
+../Core/Src/Library/EDAC.c:132:6:FRAM_Encode_Read_Block	32	static
+../Core/Src/Library/EDAC.c:143:6:FRAM_Scrubbing	8240	static

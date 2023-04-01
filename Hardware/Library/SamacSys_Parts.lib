@@ -1,0 +1,257 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NE555DR
+#/6648/2/2.28/8/3/Integrated Circuit
+DEF NE555DR IC 0 30 Y Y 1 F N
+F0 "IC" 1000 700 50 H V L CNN
+F1 "NE555DR" 1000 600 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1000 500 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 1000 400 50 H I L CNN
+F4 "Single Precision Timer" 1000 300 50 H I L CNN "Description"
+F5 "1.75" 1000 200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1000 100 50 H I L CNN "Manufacturer_Name"
+F7 "NE555DR" 1000 0 50 H I L CNN "Manufacturer_Part_Number"
+F8 "1218414" 1000 -100 50 H I L CNN "RS Part Number"
+F9 "http://uk.rs-online.com/web/p/products/1218414" 1000 -200 50 H I L CNN "RS Price/Stock"
+F10 "NE555DR" 1000 -300 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ne555dr/texas-instruments" 1000 -400 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X GND 1 600 -800 200 U 50 50 0 0 B
+X TRIG 2 0 0 200 R 50 50 0 0 B
+X OUT 3 0 -200 200 R 50 50 0 0 B
+X RESET 4 500 600 200 D 50 50 0 0 B
+X CONT 5 1200 -300 200 L 50 50 0 0 B
+X THRES 6 1200 -200 200 L 50 50 0 0 B
+X DISCH 7 1200 0 200 L 50 50 0 0 B
+X VCC 8 700 600 200 D 50 50 0 0 B
+P 5 0 1 6 200 400 1000 400 1000 -600 200 -600 200 400 N
+T 0 600 -100 50 0 0 1 "555" Normal 0 C C
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model DRV10975ZPWPR
+#/692783/281033/2.49/25/3/Integrated Circuit
+DEF DRV10975ZPWPR IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "DRV10975ZPWPR" 1250 200 50 H V L CNN
+F2 "SOP65P640X120-25N" 1250 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/drv10975" 1250 0 50 H I L CNN
+F4 "12-V, 3-Phase, Sensorless BLDC Motor Controller" 1250 -100 50 H I L CNN "Description"
+F5 "1.2" 1250 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "DRV10975ZPWPR" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-DRV10975ZPWPR" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV10975ZPWPR?qs=OfeFRKQgECjndtjc01v%2Fzg%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "DRV10975ZPWPR" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/drv10975zpwpr/texas-instruments?region=nac" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VCP 1 0 0 200 R 50 50 0 0 P
+X CPP 2 0 -100 200 R 50 50 0 0 P
+X CPN 3 0 -200 200 R 50 50 0 0 P
+X SW 4 0 -300 200 R 50 50 0 0 P
+X SWGND 5 0 -400 200 R 50 50 0 0 P
+X VREG 6 0 -500 200 R 50 50 0 0 P
+X V1P8 7 0 -600 200 R 50 50 0 0 P
+X GND 8 0 -700 200 R 50 50 0 0 P
+X V3P3 9 0 -800 200 R 50 50 0 0 P
+X SCL 10 0 -900 200 R 50 50 0 0 P
+X SDA 11 0 -1000 200 R 50 50 0 0 P
+X FG 12 0 -1100 200 R 50 50 0 0 P
+X EP 25 700 -1600 200 U 50 50 0 0 P
+X VCC_2 24 1400 0 200 L 50 50 0 0 P
+X VCC_1 23 1400 -100 200 L 50 50 0 0 P
+X W_2 22 1400 -200 200 L 50 50 0 0 P
+X W_1 21 1400 -300 200 L 50 50 0 0 P
+X V_2 20 1400 -400 200 L 50 50 0 0 P
+X V_1 19 1400 -500 200 L 50 50 0 0 P
+X U_2 18 1400 -600 200 L 50 50 0 0 P
+X U_1 17 1400 -700 200 L 50 50 0 0 P
+X PGND_2 16 1400 -800 200 L 50 50 0 0 P
+X PGND_1 15 1400 -900 200 L 50 50 0 0 P
+X DIR 14 1400 -1000 200 L 50 50 0 0 P
+X SPEED 13 1400 -1100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -1400 200 -1400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model INA238AIDGST
+#/13694459/281033/2.49/10/3/Integrated Circuit
+DEF INA238AIDGST IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "INA238AIDGST" 1050 200 50 H V L CNN
+F2 "SOP50P490X110-10N" 1050 100 50 H I L CNN
+F3 "https://www.ti.com/lit/ds/symlink/ina238.pdf?ts=1619924491111&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA238%253FHQS%253DTI-null-null-octopart-df-pf-null-wwe" 1050 0 50 H I L CNN
+F4 "Analog to Digital Converters - ADC 85-V, 16-bit, high-precision I2C output current/voltage/power monitor with alert 10-VSSOP -40 to 125" 1050 -100 50 H I L CNN "Description"
+F5 "1.1" 1050 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "INA238AIDGST" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-INA238AIDGST" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA238AIDGST?qs=DRkmTr78QATCCZN2%2FktswA%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "INA238AIDGST" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ina238aidgst/texas-instruments?region=nac" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X A1 1 0 0 200 R 50 50 0 0 P
+X A0 2 0 -100 200 R 50 50 0 0 P
+X ALERT 3 0 -200 200 R 50 50 0 0 P
+X SDA 4 0 -300 200 R 50 50 0 0 P
+X SCL 5 0 -400 200 R 50 50 0 0 P
+X IN+ 10 1200 0 200 L 50 50 0 0 P
+X IN- 9 1200 -100 200 L 50 50 0 0 P
+X VBUS 8 1200 -200 200 L 50 50 0 0 P
+X GND 7 1200 -300 200 L 50 50 0 0 P
+X VS 6 1200 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model INA2181A2QDGSRQ1
+#/1249240/281033/2.49/10/3/Integrated Circuit
+DEF INA2181A2QDGSRQ1 IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "INA2181A2QDGSRQ1" 950 200 50 H V L CNN
+F2 "SOP50P490X110-10N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/ina2181-q1" 950 0 50 H I L CNN
+F4 "AEC-Q100, Dual Channel, 26V, Bi-Directional, Low-/High-Side, Voltage Output Current Sense Amp" 950 -100 50 H I L CNN "Description"
+F5 "1.1" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "INA2181A2QDGSRQ1" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-INA2181A2QDGSRQ1" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA2181A2QDGSRQ1?qs=vdi0iO8H4N05gIIGndbiqg%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "INA2181A2QDGSRQ1" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ina2181a2qdgsrq1/texas-instruments?region=nac" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X OUT1 1 0 0 200 R 50 50 0 0 P
+X IN-1 2 0 -100 200 R 50 50 0 0 P
+X IN+1 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X REF1 5 0 -400 200 R 50 50 0 0 P
+X VS 10 1100 0 200 L 50 50 0 0 P
+X OUT2 9 1100 -100 200 L 50 50 0 0 P
+X IN-2 8 1100 -200 200 L 50 50 0 0 P
+X IN+2 7 1100 -300 200 L 50 50 0 0 P
+X REF2 6 1100 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model MMDT2222V-7
+#/441366/281033/2.49/6/3/Integrated Circuit
+DEF MMDT2222V-7 IC 0 30 Y Y 1 F N
+F0 "IC" 750 300 50 H V L CNN
+F1 "MMDT2222V-7" 750 200 50 H V L CNN
+F2 "SOTFL50P162X60-6N" 750 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/MMDT2222V-7.pdf" 750 0 50 H I L CNN
+F4 "Diodes Inc MMDT2222V-7 Dual NPN Bipolar Transistor, 600 mA, 40 V, 6-Pin SOT-563" 750 -100 50 H I L CNN "Description"
+F5 "0.6" 750 -200 50 H I L CNN "Height"
+F6 "Diodes Inc." 750 -300 50 H I L CNN "Manufacturer_Name"
+F7 "MMDT2222V-7" 750 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "621-MMDT2222V-7" 750 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/MMDT2222V-7?qs=zpnZCIghiExL0FBvu98vjw%3D%3D" 750 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "MMDT2222V-7" 750 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mmdt2222v-7/diodes-incorporated?region=nac" 750 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X E2 1 0 0 200 R 50 50 0 0 P
+X B2 2 0 -100 200 R 50 50 0 0 P
+X C1 3 0 -200 200 R 50 50 0 0 P
+X E1 4 900 0 200 L 50 50 0 0 P
+X B1 5 900 -100 200 L 50 50 0 0 P
+X C2 6 900 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model BSS138DWQ-7
+#/625638/281033/2.49/6/4/MOSFET (N-Channel)
+DEF BSS138DWQ-7 Q 0 30 Y Y 1 F N
+F0 "Q" 750 300 50 H V L CNN
+F1 "BSS138DWQ-7" 750 200 50 H V L CNN
+F2 "SOT65P210X110-6N" 750 100 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/BSS138DWQ.pdf" 750 0 50 H I L CNN
+F4 "MOSFET BSS Family" 750 -100 50 H I L CNN "Description"
+F5 "1.1" 750 -200 50 H I L CNN "Height"
+F6 "Diodes Inc." 750 -300 50 H I L CNN "Manufacturer_Name"
+F7 "BSS138DWQ-7" 750 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "621-BSS138DWQ-7" 750 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/BSS138DWQ-7?qs=nJRy1mI8RR9wz3YdMQOQIA%3D%3D" 750 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "BSS138DWQ-7" 750 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/bss138dwq-7/diodes-incorporated?region=nac" 750 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X S2 1 0 0 200 R 50 50 0 0 P
+X G2 2 0 -100 200 R 50 50 0 0 P
+X D1 3 0 -200 200 R 50 50 0 0 P
+X D2 6 900 0 200 L 50 50 0 0 P
+X G1 5 900 -100 200 L 50 50 0 0 P
+X S1 4 900 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model INA3221AIRGVT
+#/261955/281033/2.49/17/3/Integrated Circuit
+DEF INA3221AIRGVT IC 0 30 Y Y 1 F N
+F0 "IC" 1250 600 50 H V L CNN
+F1 "INA3221AIRGVT" 1250 500 50 H V L CNN
+F2 "QFN65P400X400X100-17N-D" 1250 400 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/ina3221" 1250 300 50 H I L CNN
+F4 "26-V, Triple, Bi-Directional, Zero-Drift, Low-/High-Side, I2C Out Current/Voltage Monitor w/ Alerts" 1250 200 50 H I L CNN "Description"
+F5 "1" 1250 100 50 H I L CNN "Height"
+F6 "Texas Instruments" 1250 0 50 H I L CNN "Manufacturer_Name"
+F7 "INA3221AIRGVT" 1250 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-INA3221AIRGVT" 1250 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA3221AIRGVT?qs=3AcK5DacLboWEe6h2c2gyA%3D%3D" 1250 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "INA3221AIRGVT" 1250 -400 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ina3221airgvt/texas-instruments?region=nac" 1250 -500 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X IN-3 1 0 0 200 R 50 50 0 0 P
+X IN+3 2 0 -100 200 R 50 50 0 0 P
+X GND 3 0 -200 200 R 50 50 0 0 P
+X VS 4 0 -300 200 R 50 50 0 0 P
+X A0 5 500 -1100 200 U 50 50 0 0 P
+X SCL 6 600 -1100 200 U 50 50 0 0 P
+X SDA 7 700 -1100 200 U 50 50 0 0 P
+X WARNING 8 800 -1100 200 U 50 50 0 0 P
+X IN+1 12 1400 0 200 L 50 50 0 0 P
+X IN-1 11 1400 -100 200 L 50 50 0 0 P
+X PV 10 1400 -200 200 L 50 50 0 0 P
+X CRITICAL 9 1400 -300 200 L 50 50 0 0 P
+X EP 17 500 600 200 D 50 50 0 0 P
+X VPU 16 600 600 200 D 50 50 0 0 P
+X IN+2 15 700 600 200 D 50 50 0 0 P
+X IN-2 14 800 600 200 D 50 50 0 0 P
+X TC 13 900 600 200 D 50 50 0 0 P
+P 5 0 1 6 200 400 1200 400 1200 -900 200 -900 200 400 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model 1-84953-1
+#/551952/281033/2.49/13/4/Connector
+DEF 1-84953-1 J 0 30 Y Y 1 F N
+F0 "J" 850 300 50 H V L CNN
+F1 "1-84953-1" 850 200 50 H V L CNN
+F2 "1849531" 850 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F84953%7FA3%7Fpdf%7FEnglish%7FENG_CD_84953_A3.pdf%7F1-84953-5" 850 0 50 H I L CNN
+F4 "1MM FPC HORZ.TOP CONT.ASSY 11P" 850 -100 50 H I L CNN "Description"
+F5 "2.74" 850 -200 50 H I L CNN "Height"
+F6 "571-1-84953-1" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1-84953-1?qs=uUkeXfjQ8uQbyHjuXR99Yw%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "TE Connectivity" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1-84953-1" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 1000 0 200 L 50 50 0 0 P
+X 2 2 1000 -100 200 L 50 50 0 0 P
+X 3 3 1000 -200 200 L 50 50 0 0 P
+X 4 4 1000 -300 200 L 50 50 0 0 P
+X 5 5 1000 -400 200 L 50 50 0 0 P
+X 6 6 1000 -500 200 L 50 50 0 0 P
+X 7 7 1000 -600 200 L 50 50 0 0 P
+X 8 8 1000 -700 200 L 50 50 0 0 P
+X 9 9 1000 -800 200 L 50 50 0 0 P
+X 10 10 1000 -900 200 L 50 50 0 0 P
+X 11 11 1000 -1000 200 L 50 50 0 0 P
+X MP1 MP1 0 0 200 R 50 50 0 0 P
+X MP2 MP2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -1100 200 -1100 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

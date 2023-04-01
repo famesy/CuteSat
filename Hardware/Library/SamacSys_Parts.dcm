@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP DRV10975ZPWPR
+D 12-V, 3-Phase, Sensorless BLDC Motor Controller
+K
+F http://www.ti.com/lit/gpn/drv10975
+$ENDCMP
+#
+$CMP INA238AIDGST
+D Analog to Digital Converters - ADC 85-V, 16-bit, high-precision I2C output current/voltage/power monitor with alert 10-VSSOP -40 to 125
+K
+F https://www.ti.com/lit/ds/symlink/ina238.pdf?ts=1619924491111&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA238%253FHQS%253DTI-null-null-octopart-df-pf-null-wwe
+$ENDCMP
+#
+$CMP INA2181A2QDGSRQ1
+D AEC-Q100, Dual Channel, 26V, Bi-Directional, Low-/High-Side, Voltage Output Current Sense Amp
+K
+F http://www.ti.com/lit/gpn/ina2181-q1
+$ENDCMP
+#
+$CMP MMDT2222V-7
+D Diodes Inc MMDT2222V-7 Dual NPN Bipolar Transistor, 600 mA, 40 V, 6-Pin SOT-563
+K
+F https://componentsearchengine.com/Datasheets/1/MMDT2222V-7.pdf
+$ENDCMP
+#
+$CMP BSS138DWQ-7
+D MOSFET BSS Family
+K
+F https://www.diodes.com/assets/Datasheets/BSS138DWQ.pdf
+$ENDCMP
+#
+$CMP INA3221AIRGVT
+D 26-V, Triple, Bi-Directional, Zero-Drift, Low-/High-Side, I2C Out Current/Voltage Monitor w/ Alerts
+K
+F http://www.ti.com/lit/gpn/ina3221
+$ENDCMP
+#
+$CMP 1-84953-1
+D 1MM FPC HORZ.TOP CONT.ASSY 11P
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F84953%7FA3%7Fpdf%7FEnglish%7FENG_CD_84953_A3.pdf%7F1-84953-5
+$ENDCMP
+#
+#End Doc Library

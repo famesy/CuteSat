@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "MAX706RESA+T")(type "Legacy")(uri "C:/Users/fame/Documents/My Kicad Lib/MAX706RESA+T/MAX706RESA+T.lib")(options "")(descr ""))
+  (lib (name "0472192001")(type "Legacy")(uri "C:/Users/fame/Documents/My Kicad Lib/0472192001/0472192001.lib")(options "")(descr ""))
+  (lib (name "LMR14030QDPRRQ1")(type "Legacy")(uri "C:/Users/fame/Documents/My Kicad Lib/LMR14030QDPRRQ1/LMR14030QDPRRQ1.lib")(options "")(descr ""))
+  (lib (name "STM32H743ZIT6")(type "Legacy")(uri "C:/Users/fame/Documents/My Kicad Lib/STM32H743ZIT6/STM32H743ZIT6.lib")(options "")(descr ""))
+  (lib (name "TMP75CQDRQ1")(type "Legacy")(uri "C:/Users/fame/Documents/My Kicad Lib/TMP75CQDRQ1/TMP75CQDRQ1.lib")(options "")(descr ""))
+  (lib (name "TPS3828-33DBVR")(type "Legacy")(uri "C:/Users/fame/Documents/My Kicad Lib/TPS3828-33DBVR/TPS3828-33DBVR.lib")(options "")(descr ""))
+  (lib (name "TS-1101-C-W")(type "Legacy")(uri "C:/Users/fame/Documents/My Kicad Lib/TS-1101-C-W/TS-1101-C-W.lib")(options "")(descr ""))
+  (lib (name "SDT5100LP5-13")(type "Legacy")(uri "C:/Users/fame/Documents/My Kicad Lib/SDT5100LP5-13/SDT5100LP5-13.lib")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "AS5047U")(type "KiCad")(uri "${KIPRJMOD}/libraries/AS5047U/AS5047U.pretty")(options "")(descr ""))
+  (lib (name "Logo1")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/CubeSat Logo/Logo1.pretty")(options "")(descr ""))
+  (lib (name "Logo2")(type "KiCad")(uri "C:/Users/fame/Documents/My Kicad Lib/CubeSat Logo/Logo2.pretty")(options "")(descr ""))
+)

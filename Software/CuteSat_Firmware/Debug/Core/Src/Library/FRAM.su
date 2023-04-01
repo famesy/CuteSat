@@ -1,0 +1,10 @@
+../Core/Src/Library/FRAM.c:9:9:FRAM_Initialise	32	static
+../Core/Src/Library/FRAM.c:29:19:FRAM_Lock	24	static
+../Core/Src/Library/FRAM.c:38:19:FRAM_Unlock	24	static
+../Core/Src/Library/FRAM.c:47:19:FRAM_Write	32	static
+../Core/Src/Library/FRAM.c:57:19:FRAM_Read	32	static
+../Core/Src/Library/FRAM.c:67:19:FRAM_Seq_Write	32	static
+../Core/Src/Library/FRAM.c:81:19:FRAM_Seq_Read	32	static
+../Core/Src/Library/FRAM.c:91:19:FRAM_Write_Status	24	static
+../Core/Src/Library/FRAM.c:106:19:FRAM_Read_Status	24	static
+../Core/Src/Library/FRAM.c:116:6:FRAM_Error_Handle	64	static

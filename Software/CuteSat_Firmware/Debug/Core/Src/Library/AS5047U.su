@@ -1,0 +1,8 @@
+../Core/Src/Library/AS5047U.c:10:7:EncPulse2Rad_Read	16	static
+../Core/Src/Library/AS5047U.c:16:6:AS5047U_init	32	static
+../Core/Src/Library/AS5047U.c:66:13:AS5047U_Write	24	static
+../Core/Src/Library/AS5047U.c:86:26:AS5047U_Read	32	static
+../Core/Src/Library/AS5047U.c:115:17:AS5047U_Position_Highspeed_Read	32	static
+../Core/Src/Library/AS5047U.c:141:16:AS5047U_Speed_Highspeed_Read	32	static
+../Core/Src/Library/AS5047U.c:163:19:AS5047U_Read_Error	32	static
+../Core/Src/Library/AS5047U.c:191:6:AS5047U_Error_Handle	64	static

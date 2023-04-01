@@ -1,0 +1,11 @@
+../Core/Src/Library/DRV10975.c:11:6:DRV10975_Init	48	static
+../Core/Src/Library/DRV10975.c:26:6:DRV10975_Config	48	static
+../Core/Src/Library/DRV10975.c:88:6:DRV10975_Read_Speed	48	static
+../Core/Src/Library/DRV10975.c:99:6:DRV10975_Read_Period	48	static
+../Core/Src/Library/DRV10975.c:110:6:DRV10975_Read_Kt	48	static
+../Core/Src/Library/DRV10975.c:121:6:DRV10975_Read_Current	40	static
+../Core/Src/Library/DRV10975.c:138:6:DRV10975_Read_Voltage	40	static
+../Core/Src/Library/DRV10975.c:148:6:set_pwm	40	static
+../Core/Src/Library/DRV10975.c:159:6:DRV10975_PWM_Set_Speed	16	static
+../Core/Src/Library/DRV10975.c:177:6:DRV10975_I2C_Set_Speed	56	static
+../Core/Src/Library/DRV10975.c:193:6:DRV10975_Error_Handle	64	static

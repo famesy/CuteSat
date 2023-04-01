@@ -1,0 +1,4 @@
+../Core/Src/Library/TMP75.c:4:6:TMP75_Init	72	static
+../Core/Src/Library/TMP75.c:25:6:Write_Register	32	static
+../Core/Src/Library/TMP75.c:33:6:Read_Register	24	static
+../Core/Src/Library/TMP75.c:41:6:TMP75_Read_TempCelsius	24	static

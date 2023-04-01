@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "AS5047U-HTSM")(type "KiCad")(uri "${KIPRJMOD}/libraries/AS5047U/AS5047U-HTSM.kicad_sym")(options "")(descr ""))
+)

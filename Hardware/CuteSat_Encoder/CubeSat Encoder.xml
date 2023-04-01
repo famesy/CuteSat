@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\fame\Documents\KiCad Projects\CubeSat Encoder\CubeSat Encoder.kicad_sch</source>
+    <date>19/01/2022 13:51:59</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>AS5047U Encoder for CubeSat Projects</title>
+        <company>FIBO</company>
+        <rev>v01</rev>
+        <date>2022-01-18</date>
+        <source>CubeSat Encoder.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value="Author: Kittitouch Lelapiyamit"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01e749e8-2e67-43f5-a1c9-4d252010e574</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e79c319-6479-4032-b19e-29e4ce34a245</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79dbf9a5-b7df-43fb-a00f-f81b8d414355</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8d591ad-9c08-488c-8486-d830cf35c73e</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e7ee89e-e3bd-4c59-a6e1-e370f451c381</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>AS5047U-HTSM</value>
+      <footprint>AS5047U:SOP65P640X120-14N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/c3ef85baf5c65a55d97fe066bf0af3b0.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">AS5047U-HTSM</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/as5047u-htsm/ams-ag?region=nac</field>
+        <field name="Description">AMS AS5047U-HTSM TSSOP14 LF T&amp;RDP</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">ams</field>
+        <field name="Manufacturer_Part_Number">AS5047U-HTSM</field>
+        <field name="Mouser Part Number">985-AS5047U-HTSM</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ams/AS5047U-HTSM?qs=byeeYqUIh0NGoikretscuw%3D%3D</field>
+      </fields>
+      <libsource lib="AS5047U-HTSM" part="AS5047U-HTSM" description=""/>
+      <property name="Description" value="AMS AS5047U-HTSM TSSOP14 LF T&amp;RDP"/>
+      <property name="Height" value="1.2"/>
+      <property name="Manufacturer_Name" value="ams"/>
+      <property name="Manufacturer_Part_Number" value="AS5047U-HTSM"/>
+      <property name="Mouser Part Number" value="985-AS5047U-HTSM"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/ams/AS5047U-HTSM?qs=byeeYqUIh0NGoikretscuw%3D%3D"/>
+      <property name="Arrow Part Number" value="AS5047U-HTSM"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/as5047u-htsm/ams-ag?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>302cf35e-f9ec-4d85-b58d-e56671bd418c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_02x06_Odd_Even</value>
+      <footprint>Connector_JST:JST_PHD_B12B-PHDSS_2x06_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x06_Odd_Even" description="Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f2cbef7-7844-4050-82b2-951de49e0ea2</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e4e7b53-c939-446b-a964-5787ba76e427</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57120ed3-b306-42f9-a588-d8d2a36c10ec</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a12d694-b691-4fc0-809f-64311fe7ecde</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_1.0x1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb4b9422-bd9c-4af2-9a08-6f98260720da</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_1.0x1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e6239fe-0d6a-478d-aeb9-089aeeb806db</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_1.0x1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c8f6b3e-ac2e-4d4b-a500-d4164dfc01a6</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_1.0x1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d86dc67-452b-4ff2-b487-5c1092565635</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_1.0x1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b74ff668-36bb-40da-8c27-ca15c537bbe1</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_1.0x1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubeSat Encoder.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e9977c2-0acf-4064-88c0-7227a3ed4fcd</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="AS5047U-HTSM" part="AS5047U-HTSM">
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/c3ef85baf5c65a55d97fe066bf0af3b0.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">AS5047U-HTSM</field>
+        <field name="Footprint">SOP65P640X120-14N</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/c3ef85baf5c65a55d97fe066bf0af3b0.pdf</field>
+        <field name="Description">AMS AS5047U-HTSM TSSOP14 LF T&amp;RDP</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">ams</field>
+        <field name="Manufacturer_Part_Number">AS5047U-HTSM</field>
+        <field name="Mouser Part Number">985-AS5047U-HTSM</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/ams/AS5047U-HTSM?qs=byeeYqUIh0NGoikretscuw%3D%3D</field>
+        <field name="Arrow Part Number">AS5047U-HTSM</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/as5047u-htsm/ams-ag?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CSN" type="passive"/>
+        <pin num="2" name="CLK" type="passive"/>
+        <pin num="3" name="MISO" type="passive"/>
+        <pin num="4" name="MOSI" type="passive"/>
+        <pin num="5" name="TEST" type="passive"/>
+        <pin num="6" name="B" type="passive"/>
+        <pin num="7" name="A" type="passive"/>
+        <pin num="8" name="W/PWM" type="passive"/>
+        <pin num="9" name="V" type="passive"/>
+        <pin num="10" name="U" type="passive"/>
+        <pin num="11" name="VDD" type="passive"/>
+        <pin num="12" name="VDD3V3" type="passive"/>
+        <pin num="13" name="GND" type="passive"/>
+        <pin num="14" name="I/PWM" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x06_Odd_Even">
+      <description>Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x06_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="AS5047U-HTSM">
+      <uri>C:\Users\fame\Documents\KiCad Projects\CubeSat Encoder/libraries/AS5047U/AS5047U-HTSM.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="11" pinfunction="VDD" pintype="passive"/>
+      <node ref="IC1" pin="12" pinfunction="VDD3V3" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/A">
+      <node ref="IC1" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/B">
+      <node ref="IC1" pin="6" pinfunction="B" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/CLK">
+      <node ref="IC1" pin="2" pinfunction="CLK" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/CS">
+      <node ref="IC1" pin="1" pinfunction="CSN" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/I">
+      <node ref="IC1" pin="14" pinfunction="I/PWM" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/MISO">
+      <node ref="IC1" pin="3" pinfunction="MISO" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="8" name="/MOSI">
+      <node ref="IC1" pin="4" pinfunction="MOSI" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="/U">
+      <node ref="IC1" pin="10" pinfunction="U" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/V">
+      <node ref="IC1" pin="9" pinfunction="V" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/W">
+      <node ref="IC1" pin="8" pinfunction="W/PWM" pintype="passive"/>
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="IC1" pin="13" pinfunction="GND" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="TEST" pintype="passive"/>
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
